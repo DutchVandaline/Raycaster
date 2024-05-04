@@ -1,7 +1,7 @@
 # Raycaster with C and OpenGL
 
 ## Overview
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=OpenGL&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=OpenGL&logoColor=white"><br/>
 This project is a raycasting engine written in C and openGL, inspired by classic 3D games like <Wolfenstein> and <Doom>. Raycasting is a rendering technique to create a 3D perspective in a 2D map.
 
 ## Demo
