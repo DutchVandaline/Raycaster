@@ -19,6 +19,11 @@ The White House urged that C/C++ is dangerous due to the garbage collection. So,
 - **TPS** inspired by <Resident Evil 4>, I made Third Person Shooter with Over-the-shoulder cam.
 - **Blog** written about the detail of each codes.
 
+
+## Code BreakDown
+Code breakdown is in my tech blog. Urls is following. Posts of "Raycaster Breakdown N" is it.
+[Tech-blog, I guess? by Dutch Vandaline](https://dutchvandaline.github.io/)
+
 ## Getting Started
 
 ### Prerequisites
@@ -29,6 +34,7 @@ Before you begin, ensure you have met the following requirements:
 - I recommend you to use Visual Studio if your using on Windows.
 - Animation Sprite of player and monster is divided from main code.
 
+
 ### Installation
 
 Clone the repository to your local machine:
@@ -36,7 +42,8 @@ Clone the repository to your local machine:
 ```bash
 https://github.com/DutchVandaline/Raycaster.git
 cd raycaster
-
+```
+You may need Visual Studio and OpenGL installed.
 
 
 
