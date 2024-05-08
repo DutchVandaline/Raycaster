@@ -21,7 +21,7 @@ The White House urged that C/C++ is dangerous due to the garbage collection. So,
 
 
 ## Code BreakDown
-Code breakdown is in my tech blog. Urls is following. Posts of "Raycaster Breakdown N" is it.
+Code breakdown is in my tech blog. Urls is following. Posts of "Raycaster Breakdown N" is it.<br>
 [Tech-blog, I guess? by Dutch Vandaline](https://dutchvandaline.github.io/)
 
 ## Getting Started
